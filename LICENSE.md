@@ -1,8 +1,8 @@
-# Integer To American-English Words
+# Integer To American-English Words License
 
 ## Copyright
 
-(c) © 2023 Jeffrey Andersen
+Copyright (c) 2023 Jeffrey Andersen
 
 ## License
 
